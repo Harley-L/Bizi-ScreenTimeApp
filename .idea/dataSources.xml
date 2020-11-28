@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="data2" uuid="77562430-0826-4650-8303-b94a30c8e5bd">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\harle\PycharmProjects\python_rest\data2.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="chinook" uuid="64afdd93-909c-4dd9-8b0d-4361da88f909">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\harle\PycharmProjects\python_rest\chinook.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="data3" uuid="ea2907a6-cd73-4824-abff-85e559d5f1f3">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\harle\PycharmProjects\python_rest\data3.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
